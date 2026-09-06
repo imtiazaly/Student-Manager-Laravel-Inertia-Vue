@@ -142,7 +142,7 @@ import { dashboard, login, register } from '@/routes';
                     <div class="text-center max-w-2xl mx-auto mb-16 space-y-2">
                         <Badge variant="outline" class="text-xs uppercase tracking-wider font-semibold">Features</Badge>
                         <h2 class="text-3xl font-bold text-foreground">Everything You Need for Administration</h2>
-                        <p class="text-sm text-muted-foreground">Designed with Laravel 12, Inertia.js v3, and Vue 3 for lightning-fast performance.</p>
+                        <p class="text-sm text-muted-foreground">Designed with Laravel 13, Inertia.js v3, and Vue 3 for lightning-fast performance.</p>
                     </div>
 
                     <!-- Feature Cards Grid -->
