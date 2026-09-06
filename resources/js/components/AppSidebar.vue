@@ -34,7 +34,7 @@ const mainNavItems: NavItem[] = [
 const footerNavItems: NavItem[] = [
     {
         title: 'Repository',
-        href: 'https://github.com/Imtiaz-Ali17314/Student-Manager-Laravel-Inertia-Vue',
+        href: 'https://github.com/imtiazaly/Student-Manager-Laravel-Inertia-Vue',
         icon: FolderGit2,
     },
     // {
