@@ -116,7 +116,7 @@ Follow these steps to get a local copy up and running:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/Student-Manager-Laravel-Inertia-Vue.git
+    git clone https://github.com/Imtiaz-Ali17314/Student-Manager-Laravel-Inertia-Vue.git
     cd Student-Manager-Laravel-Inertia-Vue
     ```
 
